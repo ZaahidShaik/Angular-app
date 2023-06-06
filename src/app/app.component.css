@@ -1,0 +1,13 @@
+.app{
+    font-family: arial;
+    font-size: 18px;
+    margin: 25px;
+}
+
+.greeting {
+    text-align: center; 
+}
+
+.user-info{
+    text-align: start;
+}
